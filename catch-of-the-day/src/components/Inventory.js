@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Inventor extends React.Component {
+class Inventory extends React.Component {
   render() {
     return (
       <p>Inventory</p>
